@@ -14,6 +14,8 @@ print(subtract(9, 8))
 # To check the alignment we can run the flake8 --statistics
 # python -m pytest -v --cov .
 
-# .yaml file uses the serialization language called YAML designed to be pretty human readable
+# .yaml file uses the serialization language called YAML
+# designed to be pretty human readable
 
-# Docker is like minimal container which contians all the resources which can be required to run the code
+# Docker is like minimal container which contains
+# all the resources which can be required to run the code
